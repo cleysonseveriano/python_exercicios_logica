@@ -1,3 +1,4 @@
+print('Olá')
 M = [None]*12
 for i in range(len(M)):
     M[i] = [None]*12
